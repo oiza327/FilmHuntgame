@@ -216,7 +216,7 @@
     "c2": 12,
     "c3": 1,
     "story": "You are at Dilandmar, you are planning to go to a musical show",
-    "nav": "press 1 to call Zathua, 2 to call Nechrist Territories and 3 to go Djiry",
+    "nav": "press 1 to go to Zathua, 2 to go to Nechrist Territories and 3 to go Djiry",
     "win": 0,
     "lose": 0,
     "stranger": 1,
